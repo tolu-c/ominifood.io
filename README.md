@@ -1,6 +1,3 @@
-A Food Delivery  responsive website.
+My Food Website.
 
-  Used:
-  1.HTML
-  2.JQUERY
-  3.CSS
+A fully responsie website the brings your daily food requirements to the door step with so much ease.
